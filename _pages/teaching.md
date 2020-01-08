@@ -23,5 +23,6 @@ A.Y. 2017-2018
 
 Certifications
 ------
+
 * Bocconi Excellence in Advanced Teaching ([BEAT](https://bestr.it/award/show/8b3a93e2027f4cbb8988f46cd3ba6371a0e5d075)).
 
