@@ -32,4 +32,4 @@ Skills
   * R
   * LaTeX
   
-{% include base_path %} Full CV available [here](/files/CV_Bocconi.pdf)
+Full CV available [here](/files/CV_Bocconi.pdf)
