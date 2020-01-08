@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+Full CV available [here](/files/CV_Bocconi.pdf)
+
 
 Education
 ======
@@ -31,6 +33,3 @@ Skills
   * Matlab
   * R
   * LaTeX
-
-======
-Full CV available [here](/files/CV_Bocconi.pdf)
