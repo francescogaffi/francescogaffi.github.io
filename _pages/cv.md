@@ -7,11 +7,6 @@ redirect_from:
   - /resume
 ---
 
-
-{% include base_path %} Full CV available [here](/files/cv_Bondi.pdf)
-
-The following is a non-detailed version of my CV.
-
 Education
 ======
 * B.S. in Mathematics, Padua University, 2014
@@ -40,3 +35,4 @@ Skills
   * LaTeX
   * Stata
 
+{% include base_path %} Full CV available [here](/files/cv_Bondi.pdf)
