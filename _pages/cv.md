@@ -12,7 +12,8 @@ Full CV available [here](/files/CV_Bocconi.pdf)
 Education
 ======
 * B.A. in Clarinet, Conservatorio Licinio Refice, 2011.
-* M.A. in Clarinet - Orchestral Repertoire, Conservatorio Licinio Refice, 2011. 
+* M.A. in Clarinet - Orchestral Repertoire, Conservatorio Licinio Refice, 2014. 
+
 
 * B.Sc. in Mathematics, Università di Roma Tor Vergata, 2016.
 * M.Sc. in Pure and Applied Mathematics, Università di Roma Tor Vergata, 2018.
