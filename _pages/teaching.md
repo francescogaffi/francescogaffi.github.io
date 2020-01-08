@@ -17,6 +17,7 @@ A.Y. 2019-2020
 * [Stochastic processes](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20604&anno=2020&IdPag=6203), Master course, in English.
 
 **Teaching assistant** at Università di Roma Tor Vergata:
+
 A.Y. 2017-2018
 * [Discrete mathematics](https://www.mat.uniroma2.it/~gavarini/page-web_files/mat-didat_data/Matematica_Discreta_%28INF%29/Mat-Dis_mat-didat.html), Bachelor course, in Italian.
 ## Teaching certifications
