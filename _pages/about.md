@@ -12,6 +12,8 @@ I'm a second year PhD student in Statistics at Università Bocconi in Milano. My
 
 Previously, I've obtained a Bachelor and a Master in Mathematics, focused on Probability Theory and Functional Analysis, both at Università di Roma Tor Vergata. My master thesis was about Functional Data Analysis on L<sup>2</sup>(S<sup>2</sup>), supervised by [Domenico Marinucci](https://www.mat.uniroma2.it/~marinucc/).
 
+I had music education at Conservatorio Licinio Refice in Frosinone. I play clarinet and bass clarinet.
+
 
 Research Interests
 ------
