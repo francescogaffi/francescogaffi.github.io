@@ -5,7 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+Experience
+------
 
 **Teaching assistant** at Università Bocconi:
 
@@ -20,6 +21,7 @@ A.Y. 2019-2020
 A.Y. 2017-2018
 * [Discrete mathematics](https://www.mat.uniroma2.it/~gavarini/page-web_files/mat-didat_data/Matematica_Discreta_%28INF%29/Mat-Dis_mat-didat.html), Bachelor course, in Italian.
 
-**Certifications**
+Certifications
+------
 * Bocconi Excellence in Advanced Teaching ([BEAT](https://bestr.it/award/show/8b3a93e2027f4cbb8988f46cd3ba6371a0e5d075)).
 
