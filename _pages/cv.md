@@ -9,30 +9,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, Padua University, 2014
-* M.S. in Statistics, Padua University, 2017
-* Ph.D in Statistics, Bocconi University, 2021 (expected)
+* B.A. in Clarinet, Conservatorio Licinio Refice, 2011.
+* M.A. in Clarinet - Orchestral Repertoire, Conservatorio Licinio Refice, 2011. 
+
+* B.S. in Mathematics, Università di Roma Tor Vergata, 2016.
+* M.S. in Pure and Applied Mathematics, Università di Roma Tor Vergata, 2018.
+* Ph.D in Statistics, Università Bocconi, 2022 (expected).
 
 Work experience
 ======
-* Spring 2017: Visiting Research Assistant
-  * Department of Mathematics - Statistics Section, KU Leuven
-  * Supervisor: Professor Irene Gijbels
+* October 2016 - June 2017:
+Quantitative analyst intern, Ladbrokes Coral, Roma, Italia.
 
-Teaching
-======
- * Fall 2018-Spring 2020: Teaching Assistant
-  * Bocconi University
-  * Duties included: Exercise sessions for bachelor courses in Statistics and Probability
-  
 Skills
 ======
 * Languages
   * Italian, native
-  * English, C1 (IELTS 7.5)
+  * English, C1 
 * Programming
+  * C/C++
+  * Matlab
   * R
   * LaTeX
-  * Stata
-
+  
 {% include base_path %} Full CV available [here](/files/CV_Bocconi.pdf)
