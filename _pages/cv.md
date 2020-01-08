@@ -12,9 +12,9 @@ Education
 * B.A. in Clarinet, Conservatorio Licinio Refice, 2011.
 * M.A. in Clarinet - Orchestral Repertoire, Conservatorio Licinio Refice, 2011. 
 
-* B.S. in Mathematics, Università di Roma Tor Vergata, 2016.
-* M.S. in Pure and Applied Mathematics, Università di Roma Tor Vergata, 2018.
-* Ph.D in Statistics, Università Bocconi, 2022 (expected).
+* B.Sc. in Mathematics, Università di Roma Tor Vergata, 2016.
+* M.Sc. in Pure and Applied Mathematics, Università di Roma Tor Vergata, 2018.
+* Ph.D. in Statistics, Università Bocconi, 2022 (expected).
 
 Work experience
 ======
@@ -31,5 +31,6 @@ Skills
   * Matlab
   * R
   * LaTeX
-  
+
+======
 Full CV available [here](/files/CV_Bocconi.pdf)
