@@ -18,6 +18,6 @@ I had music education at [Conservatorio Licinio Refice](http://www.conservatorio
 Research Interests
 ------
 * Bayesian Nonparametrics
-* Linear functionals of random proabbility measures
+* Linear functionals of random probability measures
 * Random fields
 * Functional data analysis
