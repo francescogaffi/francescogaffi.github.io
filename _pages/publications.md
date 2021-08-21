@@ -17,5 +17,5 @@ I serve as a reviewer for the _Electronic Journal of Statistics_.
 
 Research networks
 ---
-* Bayesian learning laboratory, [BAYESLAB](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home), in Bocconi Institute for Data Science and Analytics, [BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home/)
+* Bayesian learning laboratory, [BayesLab](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home), in Bocconi Institute for Data Science and Analytics, [BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home/)
 * Complex Data Modeling Research Network, led by [MiDaS](https://midas.mat.uc.cl/network/)
