@@ -8,12 +8,15 @@ author_profile: true
 Projects
 ---
 
-* **Discrete nonparametric priors with fixed mean distribution**, jointly with _A. Lijoi_ and _I. Prünster_
+* **Linear functionals of random probability measures**, jointly with _A. Lijoi_ and _I. Prünster_
+  * _Random probability measures with fixed mean distribution_
+  * _Continual Young diagrams and Dirichlet random means_
+* **Hierarchical partitions for multilayer networks**, jointly with _D. Durante_, _A. Lijoi_ and _I. Prünster_
 
 Editorial work
 ---
 
-I serve as a reviewer for the _Electronic Journal of Statistics_.
+I serve as a reviewer for the _Electronic Journal of Statistics_ and the _Journal of the American Statistical Association_.
 
 Research networks
 ---
