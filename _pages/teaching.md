@@ -10,7 +10,14 @@ Experience
 
 **Teaching assistant** and **Adjunct professor (AP)** at Università Bocconi:
 
-[A.Y. 2020-2021](http://didattica.unibocconi.it/docenti/cv.php?rif=223678)
+[A.Y. 2021-2022](http://didattica.unibocconi.it/docenti/cv.php?rif=223678)
+* [Introduction to probability](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/programs/phd/PhD+in+Economics+and+Finance/Courses+and+Requirements/), **(AP)**, PhD course, in English.
+* [Optimization](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20603&anno=2022&IdPag=6618), Master course, in English.
+* [Statistics](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30001&anno=2022&IdPag=6618), **(AP)** Bachelor course, in Italian.
+* [Stochastic processes](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20604&anno=2022&IdPag=6618), Master course, in English.
+* [Probability](http://dihttps://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30546&anno=2022&IdPag=6618), **(AP)**, Bachelor course, in English
+
+A.Y. 2020-2021
 * [Introduction to probability](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/programs/phd/PhD+in+Economics+and+Finance/Courses+and+Requirements/), **(AP)**, PhD course, in English.
 * [Optimization](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20603&anno=2021&IdPag=6354), Master course, in English.
 * [Mathematics](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30062&anno=2021&ric_cdl=TR01&IdPag=6351), Bachelor course, in Italian.
