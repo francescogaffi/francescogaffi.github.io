@@ -6,12 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Full CV available [here](/files/CV_Bocconi.pdf)
-
 
 Education
 ------
-* Ph.D. in Statistics, Università Bocconi, 2022 (expected).
+* Ph.D. in Statistics, Università Bocconi, 2023 (expected).
 * M.Sc. in Pure and Applied Mathematics, Università di Roma Tor Vergata, 2018.
 * B.Sc. in Mathematics, Università di Roma Tor Vergata, 2016.
 
@@ -32,4 +30,3 @@ Skills
   * C/C++
   * Matlab
   * R
-  * LaTeX
