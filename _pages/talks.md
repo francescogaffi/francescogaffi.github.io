@@ -22,7 +22,7 @@ Contributed talks
 
 * [BNP2022](http://cyprusconferences.org/bnp2022/), BNP Networking event, University of Cyprus, Nicosia, Cyprus. April 2022
 
-* [BAYSM2021](https://events.stat.uconn.edu/BAYSM2021/), Bayesian Young Statisticians Meeting, virtual. September 2021
+* [BaYSM2021](https://events.stat.uconn.edu/BAYSM2021/), Bayesian Young Statisticians Meeting, virtual. September 2021
 
 * [ISBA2021](https://events.stat.uconn.edu/ISBA2021/), World Meeting of the International Society for Bayesian Analysis, virtual. June 2021
 
