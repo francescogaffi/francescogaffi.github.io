@@ -5,13 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
-Projects
+Publications
 ---
 
-* **Linear functionals of random probability measures**, jointly with _A. Lijoi_ and _I. Prünster_
-  * _Random probability measures with fixed mean distribution_
-  * _Continual Young diagrams and Dirichlet random means_
-* **Hierarchical partitions for multilayer networks**, jointly with _D. Durante_, _A. Lijoi_ and _I. Prünster_
+Work in progress
+
+* Gaffi, F., Lijoi, A., Prünster, I. (2022+). Random probability measures with fixed mean distribution. *Working paper*
+
+* Gaffi, F., Lijoi, A., Prünster, I. (2022+). Transition probabilities of continual Young diagrams and Dirichlet random means. *Working paper*
+
+* Durante D., Gaffi F., Lijoi, A., Prünster, I. (2022+). Partially-exchangeable multilayer stochastic block models. *Working paper*
+
+
+Conference proceedings
+
+Gaffi, F., Lijoi, A., Pr\"unster, I. (2022). Specification of the base measure of nonparametric priors via random means. *Methodological and Computational Contributions on Bayesian Statistics, Springer Proceedings in Mathematics and Statistics*. In press.
+
 
 Editorial work
 ---
