@@ -26,4 +26,4 @@ Contributed talks
 
 * [ISBA2021](https://events.stat.uconn.edu/ISBA2021/), World Meeting of the International Society for Bayesian Analysis, virtual. June 2021
 
- * [ISBA@CIRM](https://sites.google.com/view/isba-at-cirm/home), Junior session of ISBA2021 mirror event, Centre International de Rencontres Mathématiques, Marseille, France.
+  * [ISBA@CIRM](https://sites.google.com/view/isba-at-cirm/home), Junior session of ISBA2021 mirror event, Centre International de Rencontres Mathématiques, Marseille, France.
