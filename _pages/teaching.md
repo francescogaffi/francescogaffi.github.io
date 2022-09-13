@@ -8,7 +8,8 @@ author_profile: true
 Experience
 ------
 
-**Teaching assistant** and **Adjunct professor (AP)** at Università Bocconi:
+**Teaching assistant** and **Adjunct professor (AP)** at Bocconi University:
+
 [A.Y. 2022-2023](http://didattica.unibocconi.it/docenti/cv.php?rif=223678)
 * [Introduction to probability](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/programs/phd/PhD+in+Economics+and+Finance/Courses+and+Requirements/), **(AP)**, Ph.D. in Economics and Finance.
 * [Statistica](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30001&anno=2023&ric_cdl=TR02&IdPag=6625), **(AP)** Corso di Laurea in Economia Aziendale a Management (CLEAM).
