@@ -8,27 +8,27 @@ author_profile: true
 Experience
 ------
 
-**Teaching assistant** and **Adjunct professor (AP)** at Bocconi University:
+**Teaching assistant** and **Adjunct lecturer (AL)** at Bocconi University:
 
 [A.Y. 2022-2023](http://didattica.unibocconi.it/docenti/cv.php?rif=223678)
-* [Introduction to probability](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/programs/phd/PhD+in+Economics+and+Finance/Courses+and+Requirements/), **(AP)**, Ph.D. in Economics and Finance.
-* [Statistica](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30001&anno=2023&ric_cdl=TR02&IdPag=6625), **(AP)** Corso di Laurea in Economia Aziendale a Management (CLEAM).
-* [Stochastic processes](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20604&anno=2022&IdPag=6618), M.Sc. in Data Science and Business Analytics (DSBA).
+* [Introduction to probability](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/programs/phd/PhD+in+Economics+and+Finance/Courses+and+Requirements/) **(AL)**, Ph.D. in Economics and Finance.
+* [Statistica](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30001&anno=2023&ric_cdl=TR02&IdPag=6625) **(AL)** Corso di Laurea in Economia Aziendale a Management.
+* [Stochastic processes](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20604&anno=2022&IdPag=6618), M.Sc. in Data Science and Business Analytics.
 
 A.Y. 2021-2022
-* [Introduction to probability](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/programs/phd/PhD+in+Economics+and+Finance/Courses+and+Requirements/), **(AP)**, Ph.D. in Economics and Finance. 
+* [Introduction to probability](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/programs/phd/PhD+in+Economics+and+Finance/Courses+and+Requirements/) **(AL)**, Ph.D. in Economics and Finance. 
 * [Optimization](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20603&anno=2022&IdPag=6618), M.Sc. in Data Science and Business Analytics.
-* [Statistica](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30001&anno=2022&IdPag=6618), **(AP)** Corso di Laurea in Economia e Finanza (CLEF).
+* [Statistica](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30001&anno=2022&IdPag=6618) **(AL)**, Corso di Laurea in Economia e Finanza.
 * [Stochastic processes](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20604&anno=2022&IdPag=6618), M.Sc. in Data Science and Business Analytics.
-* [Probability](http://dihttps://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30546&anno=2022&IdPag=6618), **(AP)**, B.Sc. in Mathematical and Computing Sciences for AI.
+* [Probability](http://dihttps://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30546&anno=2022&IdPag=6618) **(AL)**, B.Sc. in Mathematical and Computing Sciences for Artificial Intelligence.
 
 A.Y. 2020-2021
-* [Introduction to probability](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/programs/phd/PhD+in+Economics+and+Finance/Courses+and+Requirements/), **(AP)**, Ph.D. in Economics and Finance. 
+* [Introduction to probability](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/programs/phd/PhD+in+Economics+and+Finance/Courses+and+Requirements/) **(AL)**, Ph.D. in Economics and Finance. 
 * [Optimization](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20603&anno=2021&IdPag=6354), M.Sc. in Data Science and Business Analytics.
 * [Mathematics](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30062&anno=2021&ric_cdl=TR01&IdPag=6351), B.Sc. in International Economics and Management.
 * [Statistica](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30001&anno=2021&ric_cdl=TR07&IdPag=6351), Corso di Laurea in Economia e Finanza.
 * [Stochastic processes](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20604&anno=2021&IdPag=6351), M.Sc. in Data Science and Business Analytics.
-* [Probability](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30546&anno=2021&IdPag=6352), **(AP)**, B.Sc. in Mathematical and Computing Sciences for AI.
+* [Probability](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30546&anno=2021&IdPag=6352) **(AL)**, B.Sc. in Mathematical and Computing Sciences for Artificial Intelligence.
 
 A.Y. 2019-2020
 * [Optimization](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20603&anno=2020&IdPag=6203), M.Sc. in Data Science and Business Analytics.
