@@ -14,12 +14,12 @@ Work in progress
 
 * Gaffi, F., Lijoi, A., Prünster, I. (2022+). Transition probabilities of continual Young diagrams and Dirichlet random means. *Working paper*
 
-* Durante D., Gaffi F., Lijoi, A., Prünster, I. (2022+). Partially-exchangeable multilayer stochastic block models. *Working paper*
+* Durante D., Gaffi F., Lijoi, A., Prünster, I. (2022+). Partially exchangeable multilayer stochastic block models. *Working paper*
 
 
 Conference proceedings
 
-* Gaffi, F., Lijoi, A., Prünster, I. (2022). Specification of the base measure of nonparametric priors via random means. *Methodological and Computational Contributions on Bayesian Statistics, Springer Proceedings in Mathematics and Statistics*. In press.
+* Gaffi, F., Lijoi, A., Prünster, I. (2022). Specification of the base measure of nonparametric priors via random means. *New Frontiers in Bayesian Statistics, Springer Proceedings in Mathematics and Statistics*. Forthcoming.
 
 
 Editorial work
