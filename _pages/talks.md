@@ -18,7 +18,7 @@ Invited talks
 
 Contributed talks
 
-* [ISBA2022](https://isbawebmaster.github.io/ISBA2022/), World Meeting of the International Society for Bayesian Analysis, Hotel Bonaventure, Montréal, Canada. June 2022
+* [ISBA2022](https://isbawebmaster.github.io/ISBA2022/), World Meeting of the International Society for Bayesian Analysis, Montréal, Canada. June 2022
 
 * [BNP2022](http://cyprusconferences.org/bnp2022/), BNP Networking event, University of Cyprus, Nicosia, Cyprus. April 2022
 
@@ -27,3 +27,7 @@ Contributed talks
 * [ISBA2021](https://events.stat.uconn.edu/ISBA2021/), World Meeting of the International Society for Bayesian Analysis, virtual. June 2021
 
   * [ISBA@CIRM](https://sites.google.com/view/isba-at-cirm/home), Junior session of ISBA2021 mirror event, Centre International de Rencontres Mathématiques, Marseille, France.
+
+Posters
+
+* [BNP13](https://midas.mat.uc.cl/bnp13/), 13th International Conference on Bayesian Nonparametrics, Puerto Varas, Chile. October 2022
