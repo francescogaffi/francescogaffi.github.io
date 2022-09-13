@@ -10,7 +10,7 @@ Publications
 
 Work in progress
 
-* Gaffi, F., Lijoi, A., Prünster, I. (2022+). Random probability measures with fixed mean distribution. *Working paper*
+* Gaffi, F., Lijoi, A., Prünster, I. (2022+). Random probability measures with fixed mean distribution. *Submitted*
 
 * Gaffi, F., Lijoi, A., Prünster, I. (2022+). Transition probabilities of continual Young diagrams and Dirichlet random means. *Working paper*
 
