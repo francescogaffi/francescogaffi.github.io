@@ -19,7 +19,7 @@ Work in progress
 
 Conference proceedings
 
-* Gaffi, F., Lijoi, A., Prünster, I. (2022). Specification of the base measure of nonparametric priors via random means. *New Frontiers in Bayesian Statistics*, Eds. R. Argiento, F. Camerlenghi, S. Paganin. _Springer Proceedings in Mathematics and Statistics_.
+* Gaffi, F., Lijoi, A., Prünster, I. (2022). Specification of the base measure of nonparametric priors via random means. In *New Frontiers in Bayesian Statistics -  BAYSM2021*, Argiento, R., Camerlenghi, F., Paganin, S. eds, pages 91-100, vol. 405, Springer Proceedings in Mathematics and Statistics. Springer, Cham.
 
 
 Editorial work
