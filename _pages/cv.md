@@ -15,7 +15,7 @@ Education
 * M.Sc. in Pure and Applied Mathematics, Università di Roma Tor Vergata, 2018.
 * B.Sc. in Mathematics, Università di Roma Tor Vergata, 2016.
 
-* M.Mus. in Orchestral and Chamber Music, Conservatorio Licinio Refice, 2014.
+* M.Mus. in Orchestral Repertoire and Chamber Music, Conservatorio Licinio Refice, 2014.
 * B.Mus. in Clarinet, Conservatorio Licinio Refice, 2011.
 
 Work experience
