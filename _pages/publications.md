@@ -10,11 +10,11 @@ Publications
 
 Work in progress
 
-* Gaffi, F., Lijoi, A., Prünster, I. (2022+). Random probability measures with fixed mean distribution. *Submitted*.
+* Gaffi, F., Lijoi, A., Prünster, I. (2022+). Random probability measures with fixed mean distribution. *Under review*.
 
 * Gaffi, F., Lijoi, A., Prünster, I. (2022+). Transition probabilities of continual Young diagrams and Dirichlet random means. *Working paper*.
 
-* Durante D., Gaffi F., Lijoi, A., Prünster, I. (2022+). Partially exchangeable multilayer stochastic block models. *Working paper*.
+* Durante D., Gaffi F., Lijoi, A., Prünster, I. (2023+). Partially exchangeable multilayer stochastic block models. *Working paper*.
 
 
 Conference proceedings
