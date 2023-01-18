@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. Candidate in Statistics at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/phd/phd+in+statistics) in Milano. My supervisors are [Antonio Lijoi](http://didattica.unibocconi.eu/mypage/index.php?IdUte=189615&idr=&lingua=eng) and [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=). My research interests are in Bayesian nonparametrics. I'm currently working on linear functionals of random probability measures and hierarchical partitions for network data. 
+I'm a Ph.D. candidate in Statistics at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/phd/phd+in+statistics) in Milano. My supervisors are [Antonio Lijoi](http://didattica.unibocconi.eu/mypage/index.php?IdUte=189615&idr=&lingua=eng) and [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=). My research interests are in Bayesian nonparametrics. I'm currently working on linear functionals of random probability measures and hierarchical partitions for network data. 
 
-Previously, I've obtained a bachelor and a master in mathematics, focused on probability theory and functional analysis, both at [Università di Roma Tor Vergata](https://www.mat.uniroma2.it/index.php). My master thesis was about functional data analysis on L<sup>2</sup>(S<sup>2</sup>), supervised by [Domenico Marinucci](https://www.mat.uniroma2.it/~marinucc/).
+Previously, I've obtained a bachelor and a master in Mathematics, focused on probability theory and functional analysis, both at [Università di Roma Tor Vergata](https://www.mat.uniroma2.it/index.php). My master thesis was about functional data analysis on L<sup>2</sup>(S<sup>2</sup>), supervised by [Domenico Marinucci](https://www.mat.uniroma2.it/~marinucc/).
 
 I had music education at [Conservatorio Licinio Refice](http://www.conservatorio-frosinone.it/) in Frosinone. I play clarinet and bass clarinet.
 
