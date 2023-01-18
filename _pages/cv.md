@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Full CV available [here](/files/FrancescoGaffiCV.pdf)
+Full CV available [here](/files/cv0123.pdf)
 
 Education
 ------
