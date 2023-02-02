@@ -11,7 +11,7 @@ Full CV available [here](/files/cv0123.pdf)
 
 Education
 ------
-* Ph.D. in Statistics, Università Bocconi, 2023 (expected).
+* Ph.D. in Statistics, Università Bocconi, 2023.
 * M.Sc. in Pure and Applied Mathematics, Università di Roma Tor Vergata, 2018.
 * B.Sc. in Mathematics, Università di Roma Tor Vergata, 2016.
 * M.Mus. in Orchestral Repertoire and Chamber Music, Conservatorio Licinio Refice, 2014.
