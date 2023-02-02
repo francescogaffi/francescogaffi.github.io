@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Francesco Gaffi"
 title_separator          : "-"
 name                     : &name "Francesco Gaffi"
-description              : &description "Ph.D. Candidate in Statistics"
+description              : &description "Postodoctoral Fellow in Statistics"
 url                      : https://francescogaffi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "francescogaffi/francescogaffi.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Francesco Gaffi"
   avatar           : "profilefra2.jpg"
-  bio              : "Ph.D. Candidate in Statistics"
-  location         : "Bocconi University, Milano"
+  bio              : "Postdoctoral Fellow in Statistics"
+  location         : "University of Notre Dame, Indiana, USA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "francesco.gaffi@phd.unibocconi.it"
+  email            : "fgaffi@nd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
