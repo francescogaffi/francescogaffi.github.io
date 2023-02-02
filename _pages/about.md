@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Welcome to my personal web page!
+
 I'm a Robert and Sara Lumpkins Posdoctoral Fellow in Statistics at the [Department of Applied and Computational Mathematics and Statistics](https://acms.nd.edu/), [University of Notre Dame](https://www.nd.edu/), where I'm working with [Lizhen Lin](https://www3.nd.edu/~llin4/).
 I received my Ph.D. in Statistics at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/phd/phd+in+statistics), advised by [Antonio Lijoi](http://didattica.unibocconi.eu/mypage/index.php?IdUte=189615&idr=&lingua=eng) and [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=). My research interests are in Bayesian nonparametrics. I'm currently working on linear functionals of random probability measures and hierarchical partitions for network data. 
 
