@@ -8,9 +8,14 @@ author_profile: true
 Experience
 ------
 
+**Lecturer** at University of Notre Dame:
+
+Fall semester 2023
+* Introduction to probability, B.Sc. in Applied and Computational Mathemtics and Statistics
+
 **Teaching assistant** and **Adjunct lecturer (AL)** at Bocconi University:
 
-[A.Y. 2022-2023](http://didattica.unibocconi.it/docenti/cv.php?rif=223678)
+A.Y. 2022-2023
 * [Introduction to probability](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/programs/phd/PhD+in+Economics+and+Finance/Courses+and+Requirements/) **(AL)**, Ph.D. in Economics and Finance.
 * [Statistica](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30001&anno=2023&ric_cdl=TR02&IdPag=6625) **(AL)** Corso di Laurea in Economia Aziendale a Management.
 * [Stochastic processes](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20604&anno=2022&IdPag=6618), M.Sc. in Data Science and Business Analytics.
