@@ -8,11 +8,11 @@ author_profile: true
 Publications
 ---
 
-Work in progress
+Preprints
 
-* Durante D., Gaffi F., Lijoi, A., Prünster, I. (2023+). **Partially exchangeable multilayer stochastic block models**. *Working paper*. [2023 ASA-SBSS Student Paper Award winner](https://community.amstat.org/sbss/home).
+* Durante D., Gaffi F., Lijoi, A., Prünster, I. (2023). **Partially exchangeable stochastic block models for multilayer networks**. *Under review*. [2023 ASA-SBSS Student Paper Award winner](https://community.amstat.org/sbss/home).
 
-* Gaffi, F., Lijoi, A., Prünster, I. (2023+). **Random probability measures with fixed mean distributions**. *Under review*.
+* Gaffi, F., Lijoi, A., Prünster, I. (2023). **Random probability measures with fixed mean distributions**. *Under review*.
 
 * Gaffi, F., Lijoi, A., Prünster, I. (2023+). **Transition probabilities of continual Young diagrams and Dirichlet random means**. *Working paper*.
 
