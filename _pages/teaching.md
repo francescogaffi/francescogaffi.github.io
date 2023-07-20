@@ -11,7 +11,7 @@ Experience
 **Lecturer** at University of Notre Dame:
 
 Fall semester 2023
-* Introduction to probability, B.Sc. in Applied and Computational Mathemtics and Statistics
+* Introduction to probability, B.Sc. in Applied and Computational Mathematics and Statistics
 
 **Teaching assistant** and **Adjunct lecturer (AL)** at Bocconi University:
 
