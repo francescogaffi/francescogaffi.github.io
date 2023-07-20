@@ -36,4 +36,6 @@ Conferences
 
 **Poster sessions**
 
+* [Approximation Methods in Bayesian Analysis](https://conferences.cirm-math.fr/2768.html), Centre International de Rencontres Mathématiques, Marseille, France. June 2023
+  
 * [BNP13](https://midas.mat.uc.cl/bnp13/), 13th International Conference on Bayesian Nonparametrics, Puerto Varas, Chile. October 2022
