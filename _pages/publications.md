@@ -8,16 +8,20 @@ author_profile: true
 Publications
 ---
 
-Preprints
+<ins>Working papers</ins>
 
-* Durante D., Gaffi F., Lijoi, A., Prünster, I. (2023). **Partially exchangeable stochastic block models for multilayer networks**. *In revision*. [2023 ASA-SBSS Student Paper Award winner](https://community.amstat.org/sbss/home).
+* Franzolini, B. and  Gaffi, F. **An invariance-based approch to community detection in dynamic
+networks**.
+
+* Gaffi, F., Lijoi, A., Prünster, I. **Transition probabilities of continual Young diagrams and Dirichlet random means**.
+
+<ins>Journal papers</ins>
+
+* Durante, D., Gaffi, F., Lijoi, A., Prünster, I. (2023). **Partially exchangeable stochastic block models for multilayer networks**. *In revision*. [2023 ASA-SBSS Student Paper Award winner](https://community.amstat.org/sbss/home).
 
 * Gaffi, F., Lijoi, A., Prünster, I. (2023). **Random probability measures with fixed mean distributions**. *Under review*.
 
-* Gaffi, F., Lijoi, A., Prünster, I. (2023+). **Transition probabilities of continual Young diagrams and Dirichlet random means**. *Working paper*.
-
-
-Conference proceedings
+<ins>Conference proceedings</ins>
 
 * Gaffi, F., Lijoi, A., Prünster, I. (2022). **Specification of the base measure of nonparametric priors via random means**. In *New Frontiers in Bayesian Statistics -  BAYSM2021*, Argiento, R., Camerlenghi, F., Paganin, S. eds, pages 91-100, vol. 405, Springer Proceedings in Mathematics and Statistics. Springer, Cham.
 
