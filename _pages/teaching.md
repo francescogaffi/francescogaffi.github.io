@@ -5,9 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Experience
-------
-
 **Lecturer** at University of Notre Dame:
 
 Fall semester 2023
