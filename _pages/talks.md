@@ -9,7 +9,7 @@ Conferences
 ---
 
 **Invited talks**
-* [ISBA2024](https://www.unive.it/web/en/2208/home), World Meeting of the International Society for Bayesian Analysis, Universtà Ca' Foscari, Venezia, Italy. July 2024
+* [ISBA2024](https://www.unive.it/web/en/2208/home), World Meeting of the International Society for Bayesian Analysis, Università Ca' Foscari, Venezia, Italy. July 2024
 
 * [Fourth Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it/), Roma, Italy. June 2024
 
