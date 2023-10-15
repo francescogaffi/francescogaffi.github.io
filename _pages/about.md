@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal web page!
 
-I'm a Robert and Sara Lumpkins Posdoctoral Fellow in Statistics at the [Department of Applied and Computational Mathematics and Statistics](https://acms.nd.edu/), [University of Notre Dame](https://www.nd.edu/), mentored by [Lizhen Lin](https://www3.nd.edu/~llin4/). I'm also an external affiliate of the [Baysian Learning Laboratory](https://bayeslab.unibocconi.eu/), a research unit of the Bocconi Institute for Data Science and Analytics ([BIDSA](https://bidsa.unibocconi.eu/)).
+I'm a Robert and Sara Lumpkins Posdoctoral Fellow in Statistics at the [Department of Applied and Computational Mathematics and Statistics](https://acms.nd.edu/), [University of Notre Dame](https://www.nd.edu/), mentored by [Lizhen Lin](https://www3.nd.edu/~llin4/). I'm also an external affiliate of the [Bayesian Learning Laboratory](https://bayeslab.unibocconi.eu/), a research unit of the Bocconi Institute for Data Science and Analytics ([BIDSA](https://bidsa.unibocconi.eu/)).
 
 My research interests include topics in Bayesian nonparametrics and statistical properties of deep generative models. I am currently working on hierarchical partition structures for multilayer and dynamic network data, posterior consistency for stochastic block models and conditional deep generative models. 
 
