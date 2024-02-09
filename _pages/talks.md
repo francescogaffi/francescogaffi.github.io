@@ -9,6 +9,13 @@ Conferences
 ---
 
 **Invited talks**
+
+*[Frontiers of Bayesian Inference and Data Science](https://www.birs.ca/events/2024/5-day-workshops/24w5196), Casa
+Matemática Oaxaca, Mexico. September 2024
+
+*[Bernoulli-IMS2024](https://www.bernoulli-ims-worldcongress2024.org/), 11th World Congress in Probability and Statis-
+tics, Ruhr University Bochum, Germany. August 2024
+
 * [ISBA2024](https://www.unive.it/web/en/2208/home), World Meeting of the International Society for Bayesian Analysis, Università Ca' Foscari, Venezia, Italy. July 2024
 
 * [Fourth Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it/), Roma, Italy. June 2024
