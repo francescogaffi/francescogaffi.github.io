@@ -10,6 +10,8 @@ Publications
 
 <ins>Working papers</ins>
 
+* Gaffi, F., Josephs, N., Lin, L. **Nonparametric priors for graph matching**
+
 * Franzolini, B. and  Gaffi, F. **An invariance-based approch to community detection in dynamic
 networks**.
 
@@ -29,7 +31,7 @@ networks**.
 Editorial work
 ---
 
-I serve as a reviewer for the _Electronic Journal of Statistics_, the _Journal of the American Statistical Association_ and _Statistics and Probability Letters_.
+I serve as a reviewer for the _Electronic Journal of Statistics_, the _Journal of the American Statistical Association_, _Statistics and Probability Letters_, and the _Journal of Econometrics_.
 
 Research networks
 ---
