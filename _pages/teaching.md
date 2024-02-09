@@ -5,10 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**Lecturer** at University of Notre Dame:
+**Lecturer** at the University of Maryland:
+
+Spring semester 2024
+* STAT401: Applied statistics and probability II
+
+**Lecturer** at the University of Notre Dame:
 
 Fall semester 2023
-* Introduction to probability, B.Sc. in Applied and Computational Mathematics and Statistics
+* ACMS30530: Introduction to Probability
 
 **Teaching assistant** and **Adjunct lecturer (AL)** at Bocconi University:
 
