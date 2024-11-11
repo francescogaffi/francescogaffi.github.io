@@ -19,7 +19,7 @@ networks**.
 
 <ins>Journal papers</ins>
 
-* Durante, D., Gaffi, F., Lijoi, A., Prünster, I. (2023). **Partially exchangeable stochastic block models for multilayer networks**. *In revision*. [2023 ASA-SBSS Student Paper Award winner]([https://community.amstat.org/sbss/home](https://community.amstat.org/sbss/awards/sbssstudentpapercompetitionwinners587)).
+* Durante, D., Gaffi, F., Lijoi, A., Prünster, I. (2023). **Partially exchangeable stochastic block models for multilayer networks**. *In revision*. [arxiv.](https://arxiv.org/abs/2410.10619v1) [ 2023 ASA-SBSS Student Paper Award winner]([https://community.amstat.org/sbss/home](https://community.amstat.org/sbss/awards/sbssstudentpapercompetitionwinners587)).
 
 * Gaffi, F., Lijoi, A., Prünster, I. (2023). **Random probability measures with fixed mean distributions**. *Under review*.
 
@@ -31,7 +31,7 @@ networks**.
 Editorial work
 ---
 
-I serve as a reviewer for the _Electronic Journal of Statistics_, the _Journal of the American Statistical Association_, _Statistics and Probability Letters_, and the _Journal of Econometrics_.
+I serve as a reviewer for _Bayesian Analysis_, the _Electronic Journal of Statistics_, the _Journal of the American Statistical Association_, _Statistics and Probability Letters_, and the _Journal of Econometrics_.
 
 Research networks
 ---
