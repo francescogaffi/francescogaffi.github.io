@@ -83,11 +83,12 @@ author:
   name             : "Francesco Gaffi"
   avatar           : "ISBA-32crop.jpg"
   bio              : "Postdoctoral Fellow in Statistics"
-  location         : "University of Maryland, College Park, USA"
+  location         : | "University of Maryland," 
+  "College Park, USA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "fgaffi@nd.edu"
+  email            : "fgaffi@umd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
