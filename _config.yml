@@ -83,9 +83,8 @@ author:
   name             : "Francesco Gaffi"
   avatar           : "ISBA-32crop.jpg"
   bio              : "Postdoctoral Fellow in Statistics"
-  location         : | "University of Maryland," 
-  "College Park, USA"
-  employer         :
+  location         : "College Park, USA"
+  employer         : "Univeristy of Maryland"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "fgaffi@umd.edu"
