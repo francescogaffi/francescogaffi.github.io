@@ -9,7 +9,7 @@ Conferences
 ---
 
 **Invited talks**
-* [BNP14](https://bnp14.org/), 14th International Conference on Bayesian Nonparametrics, University of California, Los Angeles, USA.June 2025
+* [BNP14](https://bnp14.org/), 14th International Conference on Bayesian Nonparametrics, University of California, Los Angeles, USA. June 2025
 
 * [Recent Developments in the Techniques of Bayesian Paradigm](https://www.bhu.ac.in/Site/UnitHomeTemplate/1_3384_6719_International-Conference--on-Recent-Developments-in-the-Techniques-of-Bayesian-Paradigm-Home), Banaras Hindu University, Varanasi, India. January 2025
 
