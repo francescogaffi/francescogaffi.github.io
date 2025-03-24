@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Full CV available [here](/files/cv1124.pdf)
+Full CV available [here](/files/cv0325.pdf)
 
 Academic positions
 ------
