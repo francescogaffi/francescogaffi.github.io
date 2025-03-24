@@ -46,5 +46,5 @@ I was a committee member for the _2024 ASA-SBSS Student Paper Award_.
 
 Research networks
 ---
-* External affiliate of the *Bayesian learning laboratory* ([BayesLab](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home)), in *Bocconi Institute for Data Science and Analytics* ([BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home/))
+* External affiliate of the *Bayesian learning laboratory* ([BayesLab](https://bayeslab.unibocconi.eu/people)), in *Bocconi Institute for Data Science and Analytics* ([BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home/))
 * Member of the *Complex Data Modeling Research Network*, led by [MiDaS](https://midas.mat.uc.cl/network/)
