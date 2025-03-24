@@ -7,8 +7,14 @@ author_profile: true
 
 **Lecturer** at the University of Maryland:
 
+Spring semester 2025
+* STAT401: Applied probability and statistics II (section 0501)
+
+Fall semester 2024
+* STAT401: Applied probability and statistics II (sections 0301&0501)
+  
 Spring semester 2024
-* STAT401: Applied statistics and probability II
+* STAT401: Applied probability and statistics II (section 0111)
 
 **Lecturer** at the University of Notre Dame:
 
