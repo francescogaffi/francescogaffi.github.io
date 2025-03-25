@@ -8,13 +8,13 @@ author_profile: true
 **Lecturer** at the University of Maryland:
 
 Spring semester 2025
-* [STAT401](SyllabusS25.pdf): Applied probability and statistics II (section 0501)
+* [STAT401](/files/SyllabusS25.pdf): Applied probability and statistics II (section 0501)
 
 Fall semester 2024
-* [STAT401](SyllabusF24.pdf): Applied probability and statistics II (sections 0301&0501)
+* [STAT401](/files/SyllabusF24.pdf): Applied probability and statistics II (sections 0301&0501)
   
 Spring semester 2024
-* [STAT401](SyllabusS24.pdf): Applied probability and statistics II (section 0111)
+* [STAT401](/files/SyllabusS24.pdf): Applied probability and statistics II (section 0111)
 
 **Lecturer** at the University of Notre Dame:
 
