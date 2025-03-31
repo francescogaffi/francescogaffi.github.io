@@ -19,7 +19,7 @@ Spring semester 2024
 **Lecturer** at the University of Notre Dame:
 
 Fall semester 2023
-* ACMS30530: Introduction to Probability
+* [ACMS30530](/files/ACMS30530Syllabus_fall2023.pdf): Introduction to probability
 
 **Teaching assistant** and **Adjunct lecturer (AL)** at Bocconi University:
 
