@@ -20,15 +20,19 @@ Publications
 
 <ins>Journal papers</ins>
 
-* Durante, D., Gaffi, F., Lijoi, A., Prünster, I. (2025). **Partially exchangeable stochastic block models for (node-colored) multilayer networks**. To appear in *Journal of the American Statistical Association - Theory and Methods*.<br>
-  [[arxiv]](https://arxiv.org/abs/2410.10619v1),
-  [2023 ASA-SBSS Student Paper Award winner](https://community.amstat.org/sbss/awards/sbssstudentpapercompetitionwinners587)
-
-* Gaffi, F., Lijoi, A., Prünster, I. (2025). **Random probability measures with fixed mean distributions**. To appear in *[The Annals of Applied Probability](https://imstat.org/journals-and-publications/annals-of-applied-probability/annals-of-applied-probability-future-papers/)*.
+* Durante, D., Gaffi, F., Lijoi, A., Prünster, I. (2025). **Partially exchangeable stochastic block models for (node-colored) multilayer networks**.
+[2023 ASA-SBSS Student Paper Award winner](https://community.amstat.org/sbss/awards/sbssstudentpapercompetitionwinners587).<br>
+To appear in *[Journal of the American Statistical Association - Theory and Methods](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2507825)*.<br>
+  [[arxiv]](https://arxiv.org/abs/2410.10619v2)
+  [[code]](https://github.com/francescogaffi/pexsbm)
+  
+* Gaffi, F., Lijoi, A., Prünster, I. (2025). **Random probability measures with fixed mean distributions**. <br>
+To appear in *[The Annals of Applied Probability](https://imstat.org/journals-and-publications/annals-of-applied-probability/annals-of-applied-probability-future-papers/)*.
 
 <ins>Conference proceedings</ins>
 
-* Gaffi, F., Lijoi, A., Prünster, I. (2022). **Specification of the base measure of nonparametric priors via random means**. In *New Frontiers in Bayesian Statistics*, pages 91-100, vol. 405, Springer Proceedings in Mathematics and Statistics.
+* Gaffi, F., Lijoi, A., Prünster, I. (2022). **Specification of the base measure of nonparametric priors via random means**.<br>
+*New Frontiers in Bayesian Statistics*, pages 91-100, vol. 405, Springer Proceedings in Mathematics and Statistics.
 
 
 Editorial work
