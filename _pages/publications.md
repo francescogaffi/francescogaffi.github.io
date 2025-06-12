@@ -7,7 +7,7 @@ author_profile: true
 
 ### **Publications**
 
-<ins>Working papers</ins>
+#### <ins>Working papers</ins>
 
 * Gaffi, Josephs & Lin. **Dependent random partitions for network-linked regression**.
 
@@ -17,7 +17,7 @@ author_profile: true
 
 * Gaffi, Lijoi & Prünster. **Transition probabilities of continual Young diagrams and Dirichlet random means**.
 
-<ins>Journal papers</ins>
+#### <ins>Journal papers</ins>
 
 * Durante, Gaffi, Lijoi & Prünster (2025) <br>
 **Partially exchangeable stochastic block models for (node-colored) multilayer networks**.<br>
@@ -30,7 +30,7 @@ author_profile: true
 **Random probability measures with fixed mean distributions**. <br>
 To appear in *[The Annals of Applied Probability](https://imstat.org/journals-and-publications/annals-of-applied-probability/annals-of-applied-probability-future-papers/)*.
 
-<ins>Conference proceedings</ins>
+#### <ins>Conference proceedings</ins>
 
 * Gaffi (2025) <br>
 **Modeling multiple node-colored networks with partial exchangeability**.<br>
