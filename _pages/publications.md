@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-### **Publications**
+## **Publications**
 
-#### <ins>Working papers</ins>
+### <ins>Working papers</ins>
 
 * Gaffi, Josephs & Lin. **Dependent random partitions for network-linked regression**.
 
@@ -17,7 +17,7 @@ author_profile: true
 
 * Gaffi, Lijoi & Prünster. **Transition probabilities of continual Young diagrams and Dirichlet random means**.
 
-#### <ins>Journal papers</ins>
+### <ins>Journal papers</ins>
 
 * Durante, Gaffi, Lijoi & Prünster (2025) <br>
 **Partially exchangeable stochastic block models for (node-colored) multilayer networks**.<br>
@@ -30,7 +30,7 @@ author_profile: true
 **Random probability measures with fixed mean distributions**. <br>
 To appear in *[The Annals of Applied Probability](https://imstat.org/journals-and-publications/annals-of-applied-probability/annals-of-applied-probability-future-papers/)*.
 
-#### <ins>Conference proceedings</ins>
+### <ins>Conference proceedings</ins>
 
 * Gaffi (2025) <br>
 **Modeling multiple node-colored networks with partial exchangeability**.<br>
@@ -45,7 +45,7 @@ To appear in *[The Annals of Applied Probability](https://imstat.org/journals-an
 *New Frontiers in Bayesian Statistics*, pages 91-100, vol. 405, Springer Proceedings in Mathematics and Statistics.
 
 
-### **Editorial work**
+## **Editorial work**
 
 I serve as a reviewer for:<br>
 _Bayesian Analysis_<br>
@@ -57,7 +57,7 @@ _Stochastic Process and their Applications_
 
 I was a committee member for the _2024 ASA-SBSS Student Paper Award_.
 
-### **Research networks**
+## **Research networks**
 
 * External affiliate of the *Bayesian learning laboratory* ([BayesLab](https://bayeslab.unibocconi.eu/people)), in *Bocconi Institute for Data Science and Analytics* ([BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home/))
 * Member of the *Complex Data Modeling Research Network*, led by [MiDaS](https://midas.mat.uc.cl/network/)
