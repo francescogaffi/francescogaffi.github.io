@@ -9,7 +9,6 @@ author_profile: true
 
 ### <ins>Working papers</ins>
 
-####
 * Gaffi, Josephs & Lin. **Dependent random partitions for network-linked regression**.
 
 * Gaffi, Josephs & Lin. **Exchangeable random permutations for graph matching**.
@@ -20,7 +19,7 @@ author_profile: true
 
 ### <ins>Journal papers</ins>
 
-####
+
 * Durante, Gaffi, Lijoi & Prünster (2025) <br>
 **Partially exchangeable stochastic block models for (node-colored) multilayer networks**.<br>
 *[Journal of the American Statistical Association - Theory and Methods](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2507825)*.<br>
@@ -34,7 +33,7 @@ To appear in *[The Annals of Applied Probability](https://imstat.org/journals-an
 
 ### <ins>Conference proceedings</ins>
 
-####
+
 * Gaffi (2025) <br>
 **Modeling multiple node-colored networks with partial exchangeability**.<br>
 *Statistics for Innovation*, Italian Statistical Society Series on Advances in Statistics, Springer.
@@ -50,7 +49,7 @@ To appear in *[The Annals of Applied Probability](https://imstat.org/journals-an
 
 ## **Editorial work**
 
-####
+
 I serve as a reviewer for:<br>
 _Bayesian Analysis_<br>
 _Electronic Journal of Statistics_<br>
@@ -63,6 +62,6 @@ I was a committee member for the _2024 ASA-SBSS Student Paper Award_.
 
 ## **Research networks**
 
-####
+
 * External affiliate of the *Bayesian learning laboratory* ([BayesLab](https://bayeslab.unibocconi.eu/people)), in *Bocconi Institute for Data Science and Analytics* ([BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home/))
 * Member of the *Complex Data Modeling Research Network*, led by [MiDaS](https://midas.mat.uc.cl/network/)
