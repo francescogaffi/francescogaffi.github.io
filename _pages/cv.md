@@ -9,25 +9,36 @@ redirect_from:
 
 Full CV available [here](/files/cv0325.pdf)
 
-Academic positions
-------
-* January 2024 - present: Postdoctoral Associate, Department of Mathematics, University of Maryland, College Park. 
-* February 2023 - January 2024: Robert and Sara Lumpkins Postdoctoral Fellow, Department of Applied and Computational Mathematics and Statistics, University of Notre Dame.
+### **Academic Positions**
 
-Education
-------
-* Ph.D. in Statistics, Università Bocconi, 2023.
-* M.Sc. in Pure and Applied Mathematics, Università di Roma Tor Vergata, 2018.
-* B.Sc. in Mathematics, Università di Roma Tor Vergata, 2016.
-* M.Mus. in Orchestral Repertoire and Chamber Music, Conservatorio Licinio Refice, 2014.
-* B.Mus. in Clarinet, Conservatorio Licinio Refice, 2011.
+<pre>
+January 2024  - present        Postdoctoral Associate, Department of Mathematics, University of Maryland, College Park
+February 2023 - January 2024   Robert and Sara Lumpkins Postdoctoral Fellow, Department of Applied and Computational Mathematics and Statistics, University of Notre Dame
+</pre>
 
-Skills
-------
-* Languages
-  * Italian, native
-  * English, C1 
-* Programming
-  * C/C++
-  * Matlab
-  * R
+### **Education**
+
+<pre>
+2023    Ph.D. in Statistics, Università Bocconi
+2018    M.Sc. in Pure and Applied Mathematics, Università di Roma Tor Vergata
+2016    B.Sc. in Mathematics, Università di Roma Tor Vergata
+2014    M.Mus. in Orchestral Repertoire and Chamber Music, Conservatorio Licinio Refice
+2011    B.Mus. in Clarinet, Conservatorio Licinio Refice
+</pre>
+
+### **Awards & Funding**
+
+<pre>
+2025    BNP14 Travel Award, International Society for Bayesian Analysis
+2024    ISBA2024 Travel Award, University of California, Los Angeles
+        Scientific Exchange support, Swiss National Science Foundation
+2023    Robert and Sara Lumpkins Postdoctoral Fellowship (3.5 years), University of Notre Dame
+        Student Paper Award, American Statistical Association - Section on Bayesian Statistical Science
+2022    Special financial support for PhD candidates, Fondazione Invernizzi
+        ISBA2022 Travel Award, International Society for Bayesian Analysis
+        BNP2022 Travel Award, International Society for Bayesian Analysis
+2018    PhD Scholarship (4 years), Bocconi University
+2014    'V. Mancini' Award for Best Graduate Student - Winds Section, Conservatorio Licinio Refice
+</pre>
+
+  
