@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
----
+### **Publications**
 
 <ins>Working papers</ins>
 
@@ -20,26 +19,33 @@ Publications
 
 <ins>Journal papers</ins>
 
-* Durante, Gaffi, Lijoi & Prünster (2025). <br>
+* Durante, Gaffi, Lijoi & Prünster (2025) <br>
 **Partially exchangeable stochastic block models for (node-colored) multilayer networks**.<br>
-To appear in *[Journal of the American Statistical Association - Theory and Methods](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2507825)*.<br>
+*[Journal of the American Statistical Association - Theory and Methods](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2507825)*.<br>
   [[arxiv]](https://arxiv.org/abs/2410.10619v2)
   [[code]](https://github.com/francescogaffi/pexsbm)
   [[award]](https://community.amstat.org/sbss/awards/sbssstudentpapercompetitionwinners587)
 
-* Gaffi, Lijoi & Prünster (2025). <br>
+* Gaffi, Lijoi & Prünster (2025) <br>
 **Random probability measures with fixed mean distributions**. <br>
 To appear in *[The Annals of Applied Probability](https://imstat.org/journals-and-publications/annals-of-applied-probability/annals-of-applied-probability-future-papers/)*.
 
 <ins>Conference proceedings</ins>
 
-* Gaffi, Lijoi & Prünster (2022). <br>
+* Gaffi (2025) <br>
+**Modeling multiple node-colored networks with partial exchangeability**.<br>
+*Statistics for Innovation*, Italian Statistical Society Series on Advances in Statistics, Springer.
+
+* Gaffi (2025) <br>
+**Conditionally partially exchangeable partitions for dynamic networks**.<br>
+*New Trends in Bayesian Statistics*, Springer Proceedings in Mathematics and Statistics.
+
+* Gaffi, Lijoi & Prünster (2022) <br>
 **Specification of the base measure of nonparametric priors via random means**.<br>
 *New Frontiers in Bayesian Statistics*, pages 91-100, vol. 405, Springer Proceedings in Mathematics and Statistics.
 
 
-Editorial work
----
+### **Editorial work**
 
 I serve as a reviewer for:<br>
 _Bayesian Analysis_<br>
@@ -51,7 +57,7 @@ _Stochastic Process and their Applications_
 
 I was a committee member for the _2024 ASA-SBSS Student Paper Award_.
 
-Research networks
----
+### **Research networks**
+
 * External affiliate of the *Bayesian learning laboratory* ([BayesLab](https://bayeslab.unibocconi.eu/people)), in *Bocconi Institute for Data Science and Analytics* ([BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home/))
 * Member of the *Complex Data Modeling Research Network*, led by [MiDaS](https://midas.mat.uc.cl/network/)
