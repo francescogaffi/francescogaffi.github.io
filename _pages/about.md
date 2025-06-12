@@ -21,8 +21,8 @@ Previously, I've obtained a bachelor and a master in Mathematics, focused on pro
 I had music education at [Conservatorio Licinio Refice](http://www.conservatorio-frosinone.it/) in Frosinone. I play clarinet and bass clarinet.
 
 
-Research Interests
-------
+### **Research Interests**
+
 * Linear functionals of Bayesian nonparametric priors
 * Modelling complex network structures with generalized exchangeability
 * Bayesian graph matching
