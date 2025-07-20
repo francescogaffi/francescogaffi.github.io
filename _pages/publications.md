@@ -36,15 +36,15 @@ To appear in *[The Annals of Applied Probability](https://imstat.org/journals-an
 
 * Gaffi (2025) <br>
 **Modeling multiple node-colored networks with partial exchangeability**.<br>
-*Statistics for Innovation*, Italian Statistical Society Series on Advances in Statistics, Springer.
+*Statistics for Innovation (SIS2025)*, Italian Statistical Society Series on Advances in Statistics, Springer.
 
 * Gaffi (2025) <br>
 **Conditionally partially exchangeable partitions for dynamic networks**.<br>
-*New Trends in Bayesian Statistics*, Springer Proceedings in Mathematics and Statistics.
+*New Trends in Bayesian Statistics (BaYSM2023)*, Springer Proceedings in Mathematics and Statistics.
 
 * Gaffi, Lijoi & Prünster (2022) <br>
 **Specification of the base measure of nonparametric priors via random means**.<br>
-*New Frontiers in Bayesian Statistics*, pages 91-100, vol. 405, Springer Proceedings in Mathematics and Statistics.
+*New Frontiers in Bayesian Statistics (BaYSM2021)*, Springer Proceedings in Mathematics and Statistics.
 
 
 ## **Editorial work**
