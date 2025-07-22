@@ -11,6 +11,8 @@ Conferences
 **Invited talks**
 * [Bayesian Uncertainty Quantification in Large Models](http://www.birs.ca/events/2025/5-day-workshops/25w5329), Chennai Mathematical Institute, India. December 2025.
 
+* [MSP2025](https://msp.campus.unimib.it/home), The Mathematics of Subjective Probability, Università di Milano - Bicocca, Italy. September 2025. 
+
 * [BNP14](https://bnp14.org/), 14th International Conference on Bayesian Nonparametrics, University of California, Los Angeles, USA. June 2025.
 
 * [Recent Developments in the Techniques of Bayesian Paradigm](https://www.bhu.ac.in/Site/UnitHomeTemplate/1_3384_6719_International-Conference--on-Recent-Developments-in-the-Techniques-of-Bayesian-Paradigm-Home), Banaras Hindu University, Varanasi, India. January 2025.
@@ -37,6 +39,7 @@ Matemática Oaxaca, Mexico. September 2024.
 * [EcoSta2021](http://www.cmstatistics.org/EcoSta2021/), 4th International Conference on Econometrics and Statistics, virtual. June 2021.
 
 **Contributed talks**
+* [SIS2025](https://sis2025.sis-statistica.it/), Statistics for Innovation, Università di Genova, Italy. 
 
 * [BISP14](https://bisp14.imati.cnr.it/home_page.php), 14th Bayesian Inference for Stochastic Processes Workshop, Consiglio Nazionale delle Ricerche, Milano, Italy. May 2025.
 
