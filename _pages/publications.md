@@ -22,29 +22,29 @@ author_profile: true
 
 * Durante, Gaffi, Lijoi & Prünster (2025) <br>
 **Partially exchangeable stochastic block models for (node-colored) multilayer networks**.<br>
-*[Journal of the American Statistical Association - Theory and Methods](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2507825)*.<br>
+*[Journal of the American Statistical Association - Theory and Methods](https://doi.org/10.1080/01621459.2025.2507825)*.<br>
   [[arxiv]](https://arxiv.org/abs/2410.10619v2)
   [[code]](https://github.com/francescogaffi/pexsbm)
   [[award]](https://community.amstat.org/sbss/awards/sbssstudentpapercompetitionwinners587)
 
 * Gaffi, Lijoi & Prünster (2025) <br>
 **Random probability measures with fixed mean distributions**. <br>
-To appear in *[The Annals of Applied Probability](https://imstat.org/journals-and-publications/annals-of-applied-probability/annals-of-applied-probability-future-papers/)*.
+*[Annals of Applied Probability](https://doi.org/10.1214/24-AAP2130)*.
 
 ### <ins>Conference proceedings</ins>
 
 
 * Gaffi (2025) <br>
 **Modeling multiple node-colored networks with partial exchangeability**.<br>
-*Statistics for Innovation (SIS2025)*, Italian Statistical Society Series on Advances in Statistics, Springer.
+In *[Statistics for Innovation (SIS2025)](https://doi.org/10.1007/978-3-031-95995-0_46)*, Italian Statistical Society Series on Advances in Statistics, Springer.
 
 * Gaffi (2025) <br>
 **Conditionally partially exchangeable partitions for dynamic networks**.<br>
-*New Trends in Bayesian Statistics (BaYSM2023)*, Springer Proceedings in Mathematics and Statistics.
+In *New Trends in Bayesian Statistics (BaYSM2023)*, Springer Proceedings in Mathematics and Statistics.
 
 * Gaffi, Lijoi & Prünster (2022) <br>
 **Specification of the base measure of nonparametric priors via random means**.<br>
-*New Frontiers in Bayesian Statistics (BaYSM2021)*, Springer Proceedings in Mathematics and Statistics.
+In *[New Frontiers in Bayesian Statistics (BaYSM2021)](https://doi.org/10.1007/978-3-031-16427-9_9)*, Springer Proceedings in Mathematics and Statistics.
 
 
 ## **Editorial work**
