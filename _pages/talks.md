@@ -39,7 +39,7 @@ Matemática Oaxaca, Mexico. September 2024.
 * [EcoSta2021](http://www.cmstatistics.org/EcoSta2021/), 4th International Conference on Econometrics and Statistics, virtual. June 2021.
 
 **Contributed talks**
-* [SIS2025](https://sis2025.sis-statistica.it/), Statistics for Innovation, Università di Genova, Italy. 
+* [SIS2025](https://sis2025.sis-statistica.it/), Statistics for Innovation, Università di Genova, Italy. June 2025.
 
 * [BISP14](https://bisp14.imati.cnr.it/home_page.php), 14th Bayesian Inference for Stochastic Processes Workshop, Consiglio Nazionale delle Ricerche, Milano, Italy. May 2025.
 
