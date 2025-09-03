@@ -46,6 +46,11 @@ In *New Trends in Bayesian Statistics (BaYSM2023)*, Springer Proceedings in Math
 **Specification of the base measure of nonparametric priors via random means**.<br>
 In *[New Frontiers in Bayesian Statistics (BaYSM2021)](https://doi.org/10.1007/978-3-031-16427-9_9)*, Springer Proceedings in Mathematics and Statistics.
 
+### <ins>Discussions</ins>
+
+* Catalano & Gaffi (2025) <br>
+**Contributed discussion on “A tree perspective on stick-breaking models in covariate-dependent mixtures”** by Horiguchi, Chan & Ma. <br>
+To appear in *Bayesian Analysis*.
 
 ## **Editorial work**
 
