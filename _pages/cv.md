@@ -12,14 +12,15 @@ Full CV available [here](/files/cv0325.pdf)
 ### **Academic Positions**
 
 <pre>
-January 2024  - present        Postdoctoral Associate, Department of Mathematics, University of Maryland, College Park
+August 2025   - present        Researcher, Bocconi Institute for Data Science and Analytics, Bocconi University
+January 2024  - July 2025      Postdoctoral Associate, Department of Mathematics, University of Maryland, College Park
 February 2023 - January 2024   Robert and Sara Lumpkins Postdoctoral Fellow, Department of Applied and Computational Mathematics and Statistics, University of Notre Dame
 </pre>
 
 ### **Education**
 
 <pre>
-2023    Ph.D. in Statistics, Università Bocconi
+2023    Ph.D. in Statistics, Bocconi University
 2018    M.Sc. in Pure and Applied Mathematics, Università di Roma Tor Vergata
 2016    B.Sc. in Mathematics, Università di Roma Tor Vergata
 2014    M.Mus. in Orchestral Repertoire and Chamber Music, Conservatorio Licinio Refice
