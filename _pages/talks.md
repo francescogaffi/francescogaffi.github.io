@@ -32,7 +32,7 @@ Matemática Oaxaca, Mexico. September 2024.
 
 * [10th International Purdue Symposium on Statistics](https://www.stat.purdue.edu/symp2023/index.html), Purdue University, West Lafayette, USA. June 2023.
 
-* [IISA2022](https://intindstat.org/conference2022/index), International Indian Statistical Association Conference, Indian Insitute of Science, Bengaluru, India. December 2022.
+* [IISA2022](https://intindstat.org/conference2022/index), International Indian Statistical Association Conference, Indian Institute of Science, Bengaluru, India. December 2022.
 
 * [Third Italian Meeting on Probability and Mathematical Statistics](https://site.unibo.it/probstat/en), Alma Mater Studiorum, Bologna, Italy. June 2022.
 
