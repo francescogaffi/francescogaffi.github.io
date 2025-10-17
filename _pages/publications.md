@@ -50,7 +50,7 @@ In *[New Frontiers in Bayesian Statistics (BaYSM2021)](https://doi.org/10.1007/9
 
 * Catalano & Gaffi (2025) <br>
 **Contributed discussion on “A tree perspective on stick-breaking models in covariate-dependent mixtures”** by Horiguchi, Chan & Ma. <br>
-To appear in *Bayesian Analysis*.
+*[Bayesian Analysis](https://doi.org/10.1214/24-BA1462)*.
 
 ## **Editorial work**
 
