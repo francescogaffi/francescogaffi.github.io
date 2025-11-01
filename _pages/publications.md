@@ -8,10 +8,15 @@ author_profile: true
 ## **Publications**
 
 ### <ins>Working papers</ins>
+* Alamichel, Durante, Rigon & Gaffi. **Enriched stochastic block models**
 
-* Gaffi, Josephs & Lin. **Dependent random partitions for network-linked regression**.
+* Ghidini, Franzolini, Gaffi & Durante. **Bayesian stochastic block models for exchangeable multiplex networks**.
 
-* Gaffi, Josephs & Lin. **Exchangeable random permutations for graph matching**.
+* Franzolini & Gaffi. **Scalable slice sampling for (hierarchical) Dirichlet process mixtures**.
+
+* Gaffi, Franzolini, Josephs & Lin. **Dependent random partitions for data integration in networks**.
+
+* Gaffi, Josephs & Lin. **Exchangeable random permutations for Bayesian graph matching**.
 
 * Franzolini & Gaffi. **An invariance-based approch to node clustering in dynamic networks**.
 
