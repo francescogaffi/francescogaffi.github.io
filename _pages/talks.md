@@ -9,6 +9,8 @@ Conferences
 ---
 
 **Invited talks**
+* [BNP2026](https://bnpnetworking2026.github.io/), 4th Bayesian Nonparametrics Networking Workshop, University of Seoul, South Korea. July 2026.
+
 * [Bayesian Uncertainty Quantification in Large Models](http://www.birs.ca/events/2025/5-day-workshops/25w5329), Chennai Mathematical Institute, India. December 2025.
 
 * [MSP2025](https://msp.campus.unimib.it/home), The Mathematics of Subjective Probability, Università di Milano - Bicocca, Italy. September 2025. 
@@ -49,7 +51,7 @@ Matemática Oaxaca, Mexico. September 2024.
   
 * [ISBA2022](https://isbawebmaster.github.io/ISBA2022/), World Meeting of the International Society for Bayesian Analysis, Montréal, Canada. June 2022.
 
-* [BNP2022](http://cyprusconferences.org/bnp2022/), BNP Networking event, University of Cyprus, Nicosia, Cyprus. April 2022.
+* [BNP2022](http://cyprusconferences.org/bnp2022/), 1st Bayesian Nonparametrics Networking Workshop, University of Cyprus, Nicosia, Cyprus. April 2022.
 
 * [BaYSM2021](https://events.stat.uconn.edu/BAYSM2021/), Bayesian Young Statisticians Meeting, virtual. September 2021.
 
