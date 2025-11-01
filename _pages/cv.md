@@ -12,7 +12,8 @@ Full CV available [here](/files/cv1125.pdf)
 ### **Academic Positions**
 
 <pre>
-August 2025   - present        Researcher, Bocconi Institute for Data Science and Analytics, Bocconi University
+November 2025 - present        Assistant Professor, University of Bergamo
+August 2025   - October 2025   Researcher, Bocconi Institute for Data Science and Analytics, Bocconi University
 January 2024  - July 2025      Postdoctoral Associate, Department of Mathematics, University of Maryland, College Park
 February 2023 - January 2024   Robert and Sara Lumpkins Postdoctoral Fellow, Department of Applied and Computational Mathematics and Statistics, University of Notre Dame
 </pre>
