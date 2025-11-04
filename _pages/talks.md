@@ -11,13 +11,15 @@ Conferences
 **Invited talks**
 * [BNP2026](https://bnpnetworking2026.github.io/), 4th Bayesian Nonparametrics Networking Workshop, University of Seoul, South Korea. July 2026.
 
+* [Nonparametric Bayesian Inference - Computational Issues](https://icerm.brown.edu/program/topical_workshop/tw-26-bnp), The Institute for Computational and Experimental Research in Mathematics, Brown University, Providence, USA. January 2026.
+
 * [Bayesian Uncertainty Quantification in Large Models](http://www.birs.ca/events/2025/5-day-workshops/25w5329), Chennai Mathematical Institute, India. December 2025.
 
 * [MSP2025](https://msp.campus.unimib.it/home), The Mathematics of Subjective Probability, Università di Milano - Bicocca, Italy. September 2025. 
 
 * [BNP14](https://bnp14.org/), 14th International Conference on Bayesian Nonparametrics, University of California, Los Angeles, USA. June 2025.
 
-* [Recent Developments in the Techniques of Bayesian Paradigm](https://www.bhu.ac.in/Site/UnitHomeTemplate/1_3384_6719_International-Conference--on-Recent-Developments-in-the-Techniques-of-Bayesian-Paradigm-Home), Banaras Hindu University, Varanasi, India. January 2025.
+* [Recent Developments in the Techniques of the Bayesian Paradigm](https://www.bhu.ac.in/Site/UnitHomeTemplate/1_3384_6719_International-Conference--on-Recent-Developments-in-the-Techniques-of-Bayesian-Paradigm-Home), Banaras Hindu University, Varanasi, India. January 2025.
 
 * [Frontiers of Bayesian Inference and Data Science](https://www.birs.ca/events/2024/5-day-workshops/24w5196), Casa
 Matemática Oaxaca, Mexico. September 2024.
