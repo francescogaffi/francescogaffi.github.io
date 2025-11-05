@@ -31,6 +31,7 @@ author_profile: true
   [[arxiv]](https://arxiv.org/abs/2410.10619v2)
   [[code]](https://github.com/francescogaffi/pexsbm)
   [[award]](https://community.amstat.org/sbss/awards/sbssstudentpapercompetitionwinners587)
+  [[press]](https://www.unibocconi.it/en/news/new-statistical-model-infer-complex-structures-multilayer-networks)
 
 * Gaffi, Lijoi & Prünster (2025) <br>
 **Random probability measures with fixed mean distributions**. <br>
