@@ -86,7 +86,7 @@ author:
   employer         : "University of Bergamo"
   location         : 
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=0i8uxJEAAAAJ&hl=it&oi=ao"
   email            : "francesco.gaffi@unibg.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
