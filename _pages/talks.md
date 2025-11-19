@@ -11,6 +11,10 @@ Conferences
 **Invited talks**
 * [BNP2026](https://bnpnetworking2026.github.io/), 4th Bayesian Nonparametrics Networking Workshop, University of Seoul, South Korea. July 2026.
 
+* [ISNPS2026](https://easyconferences.eu/isnps2026/), 7th International Symposium on Nonparametric Statistics, Thessaloniki, Greece. June 2026.
+
+* [IMPMS2026](https://probabilitypalermo2026.unipa.it/), 5th Italian Meeting on Probability and Mathematical Statistics, Università di Palermo, Italy. June 2024.
+
 * [Nonparametric Bayesian Inference - Computational Issues](https://icerm.brown.edu/program/topical_workshop/tw-26-bnp), The Institute for Computational and Experimental Research in Mathematics, Brown University, Providence, USA. January 2026.
 
 * [Bayesian Uncertainty Quantification in Large Models](http://www.birs.ca/events/2025/5-day-workshops/25w5329), Chennai Mathematical Institute, India. December 2025.
@@ -28,7 +32,7 @@ Matemática Oaxaca, Mexico. September 2024.
 
 * [ISBA2024](https://www.unive.it/web/en/2208/home), World Meeting of the International Society for Bayesian Analysis, Università Ca' Foscari, Venezia, Italy. July 2024.
 
-* [Fourth Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it/), Roma, Italy. June 2024.
+* [IMPMS2024](https://probabilityrome2024.it/), 4th Italian Meeting on Probability and Mathematical Statistics, Roma, Italy. June 2024.
 
 * [JSM2023](https://ww2.amstat.org/meetings/jsm/2023/), Joint Statistical Meetings, Toronto, Canada. August 2023.
 
@@ -38,7 +42,7 @@ Matemática Oaxaca, Mexico. September 2024.
 
 * [IISA2022](https://intindstat.org/conference2022/index), International Indian Statistical Association Conference, Indian Institute of Science, Bengaluru, India. December 2022.
 
-* [Third Italian Meeting on Probability and Mathematical Statistics](https://site.unibo.it/probstat/en), Alma Mater Studiorum, Bologna, Italy. June 2022.
+* [IMPMS2022](https://site.unibo.it/probstat/en), 3rd Italian Meeting on Probability and Mathematical Statistics, Alma Mater Studiorum, Bologna, Italy. June 2022.
 
 * [EcoSta2021](http://www.cmstatistics.org/EcoSta2021/), 4th International Conference on Econometrics and Statistics, virtual. June 2021.
 
