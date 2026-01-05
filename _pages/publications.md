@@ -8,7 +8,7 @@ author_profile: true
 ## **Publications**
 
 ### <ins>Working papers</ins>
-* Alamichel, Durante, Rigon & Gaffi. **Enriched stochastic block models**
+* Alamichel, Durante, Rigon & Gaffi. **Enriched stochastic block models**.
 
 * Ghidini, Franzolini, Gaffi & Durante. **Bayesian stochastic block models for exchangeable multiplex networks**.
 
@@ -18,7 +18,7 @@ author_profile: true
 
 * Gaffi, Josephs & Lin. **Exchangeable random permutations for Bayesian graph matching**.
 
-* Franzolini & Gaffi. **An invariance-based approch to node clustering in dynamic networks**.
+* Franzolini & Gaffi. **An invariance-based approach to node clustering in dynamic networks**.
 
 * Gaffi, Lijoi & Prünster. **Transition probabilities of continual Young diagrams and Dirichlet random means**.
 
@@ -39,14 +39,13 @@ author_profile: true
 
 ### <ins>Conference proceedings</ins>
 
+* Gaffi (2026) <br>
+**Conditionally partially exchangeable partitions for dynamic networks**.<br>
+In *[New Trends in Bayesian Statistics (BaYSM2023)](https://link.springer.com/chapter/10.1007/978-3-031-99009-0_7)*, Springer Proceedings in Mathematics and Statistics.
 
 * Gaffi (2025) <br>
 **Modeling multiple node-colored networks with partial exchangeability**.<br>
 In *[Statistics for Innovation (SIS2025)](https://doi.org/10.1007/978-3-031-95995-0_46)*, Italian Statistical Society Series on Advances in Statistics, Springer.
-
-* Gaffi (2025) <br>
-**Conditionally partially exchangeable partitions for dynamic networks**.<br>
-In *New Trends in Bayesian Statistics (BaYSM2023)*, Springer Proceedings in Mathematics and Statistics.
 
 * Gaffi, Lijoi & Prünster (2022) <br>
 **Specification of the base measure of nonparametric priors via random means**.<br>
@@ -69,10 +68,15 @@ _Journal of the American Statistical Association_ <br>
 _Statistics and Probability Letters_<br>
 _Stochastic Process and their Applications_
 
-I was a committee member for the _2024 ASA-SBSS Student Paper Award_.
+I was a committee member for the _2024_ and _2026 ASA-SBSS Student Paper Award_.
+
+## **Scientific societies**
+
+I am a member of the _International Society for Bayesian Analysis (ISBA)_, the _Bayesian nonparamterics section of ISBA ([BNP-ISBA](https://bnp-isba.github.io/))_, the _junior section of ISBA ([j-ISBA](https://j-isba.github.io/index.html))_, the _Institute of Mathematical Statistics ([IMS](https://imstat.org/))_, and the _Italian Statistical Society ([SIS](https://sis-statistica.it/eng/1/Home))_.
+
+I serve as Chair-Elect of j-ISBA.
 
 ## **Research networks**
-
 
 * External affiliate of the *Bayesian learning laboratory* ([BayesLab](https://bayeslab.unibocconi.eu/people)), in *Bocconi Institute for Data Science and Analytics* ([BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home/))
 * Member of the *Complex Data Modeling Research Network*, led by [MiDaS](https://midas.mat.uc.cl/network/)
