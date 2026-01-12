@@ -4,6 +4,12 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
+**Lecturer** at the University of Bergamo:
+
+A.Y. 2025/2026
+* [Inferenza statistica](https://unibg.unifind.cineca.it/individual?uri=http%3A%2F%2Firises.unibg.it%2Fresource%2Faf%2F654018-168892-PDS0-2025-1), Corso di Laurea in Data Analytics, Economia e Tecnologie Digitali.
+* [Statistica](https://unibg.unifind.cineca.it/individual?uri=http%3A%2F%2Firises.unibg.it%2Fresource%2Faf%2F651312-169143-COMUNE-2), Corso di Laurea in Ingegneria Gestionale.
+
 
 **Lecturer** at the University of Maryland:
 
