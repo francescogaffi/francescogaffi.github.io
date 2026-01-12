@@ -13,7 +13,7 @@ Conferences
 
 * [ISNPS2026](https://easyconferences.eu/isnps2026/), 7th International Symposium on Nonparametric Statistics, Thessaloniki, Greece. June 2026.
 
-* [IMPMS2026](https://probabilitypalermo2026.unipa.it/), 5th Italian Meeting on Probability and Mathematical Statistics, Università di Palermo, Italy. June 2024.
+* [IMPMS2026](https://probabilitypalermo2026.unipa.it/), 5th Italian Meeting on Probability and Mathematical Statistics, Università di Palermo, Italy. June 2026.
 
 * [Nonparametric Bayesian Inference - Computational Issues](https://icerm.brown.edu/program/topical_workshop/tw-26-bnp), The Institute for Computational and Experimental Research in Mathematics, Brown University, Providence, USA. January 2026.
 
