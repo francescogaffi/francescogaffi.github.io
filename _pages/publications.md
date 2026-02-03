@@ -8,22 +8,34 @@ author_profile: true
 ## **Publications**
 
 ### <ins>Working papers</ins>
-* Alamichel, Durante, Rigon & Gaffi. **Enriched stochastic block models**.
+* Alamichel, Gaffi, Rigon & Durante. **Enriched stochastic block models**.
 
 * Ghidini, Franzolini, Gaffi & Durante. **Bayesian stochastic block models for exchangeable multiplex networks**.
 
-* Franzolini & Gaffi. **Scalable slice sampling for (hierarchical) Dirichlet process mixtures**.
+* Franzolini & Gaffi. **Scalable and exact hybrid sampling for hierarchical Dirichlet process-based models**.
 
 * Gaffi, Franzolini, Josephs & Lin. **Dependent random partitions for data integration in networks**.
-
-* Gaffi, Josephs & Lin. **Exchangeable random permutations for Bayesian graph matching**.
 
 * Franzolini & Gaffi. **An invariance-based approach to node clustering in dynamic networks**.
 
 * Gaffi, Lijoi & Prünster. **Transition probabilities of continual Young diagrams and Dirichlet random means**.
 
-### <ins>Journal papers</ins>
 
+### <ins>Preprints</ins>
+
+* Gaffi, Josephs & Lin. (2026)<br>
+**Exchangeable random permutations with an application to Bayesian graph matching**. <br>
+[[arxiv]](https://arxiv.org/abs/2602.01993)
+[[code]](https://github.com/francescogaffi/BayesGM)
+
+
+* Franzolini & Gaffi. (2026)<br>
+**Complexity bounds for Dirichlet process slice samplers**. <br>
+[[arxiv]](https://arxiv.org/abs/2602.00878)
+[[code]](https://github.com/beatricefranzolini/DPalg)
+
+
+### <ins>Journal papers</ins>
 
 * Durante, Gaffi, Lijoi & Prünster (2025) <br>
 **Partially exchangeable stochastic block models for (node-colored) multilayer networks**.<br>
