@@ -82,11 +82,12 @@ _Stochastic Process and their Applications_
 
 I was a committee member for the _2024_ and _2026 ASA-SBSS Student Paper Award_.
 
+
 ## **Scientific societies**
 
-I am a member of the _International Society for Bayesian Analysis (ISBA)_, the _Bayesian nonparamterics section of ISBA ([BNP-ISBA](https://bnp-isba.github.io/))_, the _junior section of ISBA ([j-ISBA](https://j-isba.github.io/index.html))_, the _Institute of Mathematical Statistics ([IMS](https://imstat.org/))_, and the _Italian Statistical Society ([SIS](https://sis-statistica.it/eng/1/Home))_.
+I am a member of the _International Society for Bayesian Analysis ([ISBA](https://bayesian.org/))_, the _Bayesian nonparamterics section of ISBA ([BNP-ISBA](https://bnp-isba.github.io/))_, the _junior section of ISBA ([j-ISBA](https://j-isba.github.io/index.html))_, the _Institute of Mathematical Statistics ([IMS](https://imstat.org/))_, and the _Italian Statistical Society ([SIS](https://sis-statistica.it/eng/1/Home))_.
 
-I serve as Chair-Elect of j-ISBA.
+In 2026, I serve as [Chair-Elect of j-ISBA](https://j-isba.github.io/officers.html).
 
 ## **Research networks**
 
