@@ -78,7 +78,7 @@ _Electronic Journal of Statistics_<br>
 _Journal of Econometrics_<br>
 _Journal of the American Statistical Association_ <br>
 _Statistics and Probability Letters_<br>
-_Stochastic Process and their Applications_
+_Stochastic Processes and their Applications_
 
 I was a committee member for the _2024_ and _2026 ASA-SBSS Student Paper Award_.
 
