@@ -10,7 +10,7 @@ author_profile: true
 ### <ins>Working papers</ins>
 * Alamichel, Gaffi, Rigon & Durante. **Enriched stochastic block models**.
 
-* Ghidini, Franzolini, Gaffi & Durante. **Bayesian stochastic block models for exchangeable multiplex networks**.
+* Ghidini, Franzolini, Gaffi & Durante. **Multiplex exchangeability for stochastic block models**.
 
 * Franzolini & Gaffi. **Scalable and exact hybrid sampling for hierarchical Dirichlet process-based models**.
 
@@ -29,13 +29,13 @@ author_profile: true
 [[code]](https://github.com/francescogaffi/BayesGM)
 
 
-* Franzolini & Gaffi. (2026)<br>
+### <ins>Refereed papers</ins>
+
+* Franzolini & Gaffi. (2026) <br>
 **Complexity bounds for Dirichlet process slice samplers**. <br>
+*43rd International Conference on Machine Learning*, to appear. <br>
 [[arxiv]](https://arxiv.org/abs/2602.00878)
 [[code]](https://github.com/beatricefranzolini/DPalg)
-
-
-### <ins>Journal papers</ins>
 
 * Durante, Gaffi, Lijoi & Prünster (2025) <br>
 **Partially exchangeable stochastic block models for (node-colored) multilayer networks**.<br>
@@ -49,11 +49,15 @@ author_profile: true
 **Random probability measures with fixed mean distributions**. <br>
 *[Annals of Applied Probability](https://doi.org/10.1214/24-AAP2130)*.
 
-### <ins>Conference proceedings</ins>
+### <ins>Refereed short papers, book chapters and discussions</ins>
 
 * Gaffi (2026) <br>
 **Conditionally partially exchangeable partitions for dynamic networks**.<br>
 In *[New Trends in Bayesian Statistics (BaYSM2023)](https://link.springer.com/chapter/10.1007/978-3-031-99009-0_7)*, Springer Proceedings in Mathematics and Statistics.
+
+* Catalano & Gaffi (2025) <br>
+**Contributed discussion on “A tree perspective on stick-breaking models in covariate-dependent mixtures”** by Horiguchi, Chan & Ma. <br>
+*[Bayesian Analysis](https://doi.org/10.1214/24-BA1462)*.
 
 * Gaffi (2025) <br>
 **Modeling multiple node-colored networks with partial exchangeability**.<br>
@@ -63,11 +67,6 @@ In *[Statistics for Innovation (SIS2025)](https://doi.org/10.1007/978-3-031-9599
 **Specification of the base measure of nonparametric priors via random means**.<br>
 In *[New Frontiers in Bayesian Statistics (BaYSM2021)](https://doi.org/10.1007/978-3-031-16427-9_9)*, Springer Proceedings in Mathematics and Statistics.
 
-### <ins>Discussions</ins>
-
-* Catalano & Gaffi (2025) <br>
-**Contributed discussion on “A tree perspective on stick-breaking models in covariate-dependent mixtures”** by Horiguchi, Chan & Ma. <br>
-*[Bayesian Analysis](https://doi.org/10.1214/24-BA1462)*.
 
 ## **Editorial work**
 
