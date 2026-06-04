@@ -23,49 +23,53 @@ author_profile: true
 
 ### <ins>Preprints</ins>
 
-* Gaffi, Josephs & Lin. (2026)<br>
-**Exchangeable random permutations with an application to Bayesian graph matching**. <br>
+* Gaffi, Josephs & Lin (2026)<br>
+**Exchangeable random permutations with an application to Bayesian graph matching** <br>
 [[arxiv]](https://arxiv.org/abs/2602.01993)
 [[code]](https://github.com/francescogaffi/BayesGM)
 
 
 ### <ins>Refereed papers</ins>
 
-* Franzolini & Gaffi. (2026) <br>
-**Complexity bounds for Dirichlet process slice samplers**. <br>
-*43rd International Conference on Machine Learning*, to appear. <br>
+* Franzolini & Gaffi (2026) <br>
+**Complexity bounds for Dirichlet process slice samplers** <br>
+*43rd International Conference on Machine Learning*, to appear <br>
 [[arxiv]](https://arxiv.org/abs/2602.00878)
 [[code]](https://github.com/beatricefranzolini/DPalg)
 
 * Durante, Gaffi, Lijoi & Prünster (2025) <br>
-**Partially exchangeable stochastic block models for (node-colored) multilayer networks**.<br>
-*[Journal of the American Statistical Association - Theory and Methods](https://doi.org/10.1080/01621459.2025.2507825)*.<br>
+**Partially exchangeable stochastic block models for (node-colored) multilayer networks**<br>
+*[Journal of the American Statistical Association - Theory and Methods](https://doi.org/10.1080/01621459.2025.2507825)*<br>
   [[arxiv]](https://arxiv.org/abs/2410.10619v2)
   [[code]](https://github.com/francescogaffi/pexsbm)
   [[award]](https://community.amstat.org/sbss/awards/sbssstudentpapercompetitionwinners587)
   [[press]](https://www.unibocconi.it/en/news/new-statistical-model-infer-complex-structures-multilayer-networks)
 
 * Gaffi, Lijoi & Prünster (2025) <br>
-**Random probability measures with fixed mean distributions**. <br>
-*[Annals of Applied Probability](https://doi.org/10.1214/24-AAP2130)*.
+**Random probability measures with fixed mean distributions** <br>
+*[Annals of Applied Probability](https://doi.org/10.1214/24-AAP2130)*
 
 ### <ins>Refereed short papers, book chapters and discussions</ins>
 
+* Gaffi & Franzolini (2026) <br>
+**Contributed discussion on “Robust Probabilistic Inference via a Constrained Transport Metric”** by Chakraborty, Bhattacharya & Pati <br>
+*[Bayesian Analysis](https://projecteuclid.org/journals/bayesian-analysis/volume--1/issue--1/Robust-Probabilistic-Inference-via-a-Constrained-Transport-Metric/10.1214/25-BA1535.full)*
+
 * Gaffi (2026) <br>
-**Conditionally partially exchangeable partitions for dynamic networks**.<br>
-In *[New Trends in Bayesian Statistics (BaYSM2023)](https://link.springer.com/chapter/10.1007/978-3-031-99009-0_7)*, Springer Proceedings in Mathematics and Statistics.
+**Conditionally partially exchangeable partitions for dynamic networks**<br>
+In *[New Trends in Bayesian Statistics (BaYSM2023)](https://link.springer.com/chapter/10.1007/978-3-031-99009-0_7)*, Springer Proceedings in Mathematics and Statistics
 
 * Catalano & Gaffi (2025) <br>
-**Contributed discussion on “A tree perspective on stick-breaking models in covariate-dependent mixtures”** by Horiguchi, Chan & Ma. <br>
-*[Bayesian Analysis](https://doi.org/10.1214/24-BA1462)*.
+**Contributed discussion on “A tree perspective on stick-breaking models in covariate-dependent mixtures”** by Horiguchi, Chan & Ma <br>
+*[Bayesian Analysis](https://doi.org/10.1214/24-BA1462)*
 
 * Gaffi (2025) <br>
-**Modeling multiple node-colored networks with partial exchangeability**.<br>
-In *[Statistics for Innovation (SIS2025)](https://doi.org/10.1007/978-3-031-95995-0_46)*, Italian Statistical Society Series on Advances in Statistics, Springer.
+**Modeling multiple node-colored networks with partial exchangeability**<br>
+In *[Statistics for Innovation (SIS2025)](https://doi.org/10.1007/978-3-031-95995-0_46)*, Italian Statistical Society Series on Advances in Statistics, Springer
 
 * Gaffi, Lijoi & Prünster (2022) <br>
-**Specification of the base measure of nonparametric priors via random means**.<br>
-In *[New Frontiers in Bayesian Statistics (BaYSM2021)](https://doi.org/10.1007/978-3-031-16427-9_9)*, Springer Proceedings in Mathematics and Statistics.
+**Specification of the base measure of nonparametric priors via random means**<br>
+In *[New Frontiers in Bayesian Statistics (BaYSM2021)](https://doi.org/10.1007/978-3-031-16427-9_9)*, Springer Proceedings in Mathematics and Statistics
 
 
 ## **Editorial work**
