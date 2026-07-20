@@ -15,6 +15,8 @@ Conferences
 
 * [IMPMS2026](https://probabilitypalermo2026.unipa.it/), 5th Italian Meeting on Probability and Mathematical Statistics, Università di Palermo, Italy. June 2026.
 
+* * [StaTalk2026](https://sites.google.com/view/statalk-2026), Università di Torino, Italy. May 2026.
+
 * [Nonparametric Bayesian Inference - Computational Issues](https://icerm.brown.edu/program/topical_workshop/tw-26-bnp), The Institute for Computational and Experimental Research in Mathematics, Brown University, Providence, USA. January 2026.
 
 * [Bayesian Uncertainty Quantification in Large Models](http://www.birs.ca/events/2025/5-day-workshops/25w5329), Chennai Mathematical Institute, India. December 2025.
@@ -66,6 +68,10 @@ Matemática Oaxaca, Mexico. September 2024.
   * [ISBA@CIRM](https://sites.google.com/view/isba-at-cirm/home), Junior session of ISBA2021 mirror event, Centre International de Rencontres Mathématiques, Marseille, France.
 
 **Poster sessions**
+* [ICML2026](https://icml.cc), 43rd International Conference on Machine Learning, Seoul, South Korea. July 2026.
+
+* [ISBA2026](https://isba2026.github.io), World Meeting of the International Society for Bayesian Analysis, Nagoya, Japan. June 2026.
+
 * [BaYSM2024](https://events.stat.uconn.edu/BAYSM2024/), Bayesian Young Statisticians Meeting, Università Ca’ Foscari, Venezia, Italy. June 2024. 
 
 * [Approximation Methods in Bayesian Analysis](https://conferences.cirm-math.fr/2768.html), Centre International de Rencontres Mathématiques, Marseille, France. June 2023.
