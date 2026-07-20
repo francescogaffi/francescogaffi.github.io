@@ -33,7 +33,8 @@ author_profile: true
 
 * Franzolini & Gaffi (2026) <br>
 **Complexity bounds for Dirichlet process slice samplers** <br>
-*43rd International Conference on Machine Learning*, to appear <br>
+*43rd International Conference on Machine Learning*, to appear in PMLR<br>
+[[openreview]](https://openreview.net/forum?id=c2neBfCuoz)
 [[arxiv]](https://arxiv.org/abs/2602.00878)
 [[code]](https://github.com/beatricefranzolini/DPalg)
 
@@ -50,6 +51,10 @@ author_profile: true
 *[Annals of Applied Probability](https://doi.org/10.1214/24-AAP2130)*
 
 ### <ins>Refereed short papers, book chapters and discussions</ins>
+
+* Gaffi, Legramanti & Rimella (2026) <br>
+**Gaffi, Legramanti, and Rimella’s contribution to the Discussion of ‘Regression by Composition’**  by Farewell et al. <br>
+*[Journal of the Royal Statistical Society Series B: Statistical Methodology](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkag089/8708296?login=false)*
 
 * Gaffi & Franzolini (2026) <br>
 **Contributed discussion on “Robust Probabilistic Inference via a Constrained Transport Metric”** by Chakraborty, Bhattacharya & Pati <br>
