@@ -33,7 +33,7 @@ author_profile: true
 
 * Franzolini & Gaffi (2026) <br>
 **Complexity bounds for Dirichlet process slice samplers** <br>
-*43rd International Conference on Machine Learning*, to appear in PMLR<br>
+*[Proceedings of the 43rd International Conference on Machine Learning](https://proceedings.mlr.press/v306/franzolini26a.html)*<br>
 [[openreview]](https://openreview.net/forum?id=c2neBfCuoz)
 [[arxiv]](https://arxiv.org/abs/2602.00878)
 [[code]](https://github.com/beatricefranzolini/DPalg)
