@@ -5,10 +5,20 @@ permalink: /talks/
 author_profile: true
 ---
 
+Seminars
+---
+* Statistics seminar, Department of Mathematics, University of Maryland, College Park. October 20, 2026.
+
+* Bayesian Statistics seminar, Department of Statistics, North Carolina State University. October 15, 2026.
+
+* Brown Bag seminar, Department of Economics, University of Bergamo. March 24, 2026.
+
 Conferences
 ---
 
 **Invited talks**
+* [STING2027](https://sites.google.com/view/sting2027), Statistical Inference on Networks and Graphs, Imperial College London, UK. January 2027.
+
 * [BNP2026](https://bnpnetworking2026.github.io/), 4th Bayesian Nonparametrics Networking Workshop, University of Seoul, South Korea. July 2026.
 
 * [ISNPS2026](https://easyconferences.eu/isnps2026/), 7th International Symposium on Nonparametric Statistics, Thessaloniki, Greece. June 2026.
