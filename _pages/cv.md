@@ -31,6 +31,8 @@ February 2023 - January 2024   Robert and Sara Lumpkins Postdoctoral Fellow, Dep
 ### **Awards & Funding**
 
 <pre>
+2026    Seedcorn Grant, structured member of interdepartmental research project: ‘ALABICCO: Accertamenti di LABoratorIo e Criteri interpretativi per appliCazioni fOrensi’, University of Bergamo
+        ISBA2026 Travel Award, International Society for Bayesian Analysis
 2025    BNP14 Travel Award, International Society for Bayesian Analysis
 2024    ISBA2024 Travel Award, University of California, Los Angeles
         Scientific Exchange support, Swiss National Science Foundation
@@ -40,7 +42,7 @@ February 2023 - January 2024   Robert and Sara Lumpkins Postdoctoral Fellow, Dep
         ISBA2022 Travel Award, International Society for Bayesian Analysis
         BNP2022 Travel Award, International Society for Bayesian Analysis
 2018    PhD Scholarship (4 years), Bocconi University
-2014    'V. Mancini' Award for Best Graduate Student - Winds Section, Conservatorio Licinio Refice
+2014    Mancini Award for Best Graduate Student - Winds Section, Conservatorio Licinio Refice
 </pre>
 
   
